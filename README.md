@@ -23,3 +23,6 @@
 **Info Screen With student id and name**
 
 ![Screenshot From 2024-11-28 19-15-55](https://github.com/user-attachments/assets/20f08a03-e32e-4e51-bc1a-8e3dcd7f630b)
+
+
+**PS:** All API responses are logged to console for easier debugging
