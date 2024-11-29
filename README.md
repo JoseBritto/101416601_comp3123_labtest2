@@ -15,7 +15,7 @@
 
 **Easily Set Location**
  - Save Button only appears on valid input
- - Can optionally input 2-letter country code
+ - Can optionally input 2-letter country code (Useful if your city isn't correctly recognized)
 
 ![Screenshot From 2024-11-28 19-16-06](https://github.com/user-attachments/assets/89e9f7b5-2b40-47d1-b37e-ca5909c804f0)
 
